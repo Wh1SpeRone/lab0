@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Enjoy that.\n");
+    printf("Enjoy our daily.\n");
 }
